@@ -13,15 +13,15 @@
 
 - ⚡ Fun fact **I enjoy observing things, solving problems, and I’m always ready to learn new things—especially when they help me grow.**
 
-<h3 align="left">Languages and Tools:</h3>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android)
+### 🚀 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
